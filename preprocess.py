@@ -82,7 +82,7 @@ aa_matrix.drop(
 )
 aa_matrix.loc[
     aa_matrix["Element Name"] == "Visual Color Determination", "Element Name"
-] = "Visual Color Discrimination"
+] = "Visual Color Discrimination" 
 
 # 3. Merge O*NET data with Application-Ability Matrix
 merged_df = abilities_condensed.merge(aa_matrix, how="left", on="Element Name")

@@ -57,9 +57,9 @@
                 }
             },
             "subreddit": [
+                "business",
                 "ceo",
-                "managers",
-                "business"
+                "managers"
             ]
         },
         "2000": {
@@ -127,10 +127,10 @@
                 }
             },
             "subreddit": [
-                "PublicRelations",
-                "marketing",
                 "sales",
+                "PublicRelations",
                 "advertising",
+                "marketing",
                 "managers"
             ]
         },
@@ -219,12 +219,12 @@
                 }
             },
             "subreddit": [
-                "finance",
-                "InformationTechnology",
-                "management",
-                "procurement",
                 "humanresources",
-                "managers"
+                "procurement",
+                "finance",
+                "management",
+                "managers",
+                "InformationTechnology"
             ]
         },
         "9000": {
@@ -348,22 +348,22 @@
                 }
             },
             "subreddit": [
-                "RealEstate",
-                "healthcareadmin",
-                "ConstructionManagers",
-                "education",
                 "usps",
-                "farming",
-                "architects",
-                "Serverlife",
+                "Architects",
+                "ConstructionManagers",
                 "EmergencyManagement",
-                "FuneralDirector",
                 "Professors",
-                "architecture",
-                "managers",
                 "Teachers",
                 "Principals",
-                "FoodService"
+                "farming",
+                "Serverlife",
+                "RealEstate",
+                "FuneralDirector",
+                "healthcareadmin",
+                "architecture",
+                "managers",
+                "FoodService",
+                "education"
             ]
         },
         "occupation": "Management",
@@ -546,33 +546,33 @@
             }
         },
         "subreddit": [
-            "business",
-            "healthcareadmin",
-            "ceo",
-            "Serverlife",
-            "PublicRelations",
-            "management",
-            "InformationTechnology",
-            "marketing",
             "sales",
+            "ceo",
             "Principals",
-            "FoodService",
-            "finance",
-            "RealEstate",
-            "architects",
             "farming",
-            "FuneralDirector",
-            "advertising",
-            "usps",
+            "RealEstate",
+            "finance",
             "EmergencyManagement",
-            "Professors",
-            "procurement",
+            "managers",
+            "FoodService",
+            "InformationTechnology",
+            "business",
             "Teachers",
-            "education",
-            "ConstructionManagers",
+            "healthcareadmin",
             "architecture",
+            "marketing",
+            "management",
+            "education",
+            "usps",
+            "PublicRelations",
             "humanresources",
-            "managers"
+            "Professors",
+            "FuneralDirector",
+            "Architects",
+            "ConstructionManagers",
+            "procurement",
+            "Serverlife",
+            "advertising"
         ]
     },
     "13": {
@@ -701,21 +701,21 @@
                 }
             },
             "subreddit": [
-                "EventPlanners",
-                "Training",
-                "managementconsulting",
-                "MarektingResearch",
-                "ClaimsAdjuster",
-                "logistics",
-                "businessanalysis",
-                "farming",
-                "adjusters",
-                "management",
-                "procurement",
                 "compliance",
-                "marketing",
+                "ClaimsAdjuster",
+                "humanresources",
+                "logistics",
+                "managementconsulting",
+                "procurement",
+                "EventPlanners",
                 "Marketresearch",
-                "humanresources"
+                "farming",
+                "Training",
+                "adjusters",
+                "MarektingResearch",
+                "businessanalysis",
+                "marketing",
+                "management"
             ]
         },
         "2000": {
@@ -819,17 +819,17 @@
                 }
             },
             "subreddit": [
-                "FinancialAnalyst",
-                "FinancialCareers",
-                "Compliance",
-                "Analyst",
-                "Accounting",
-                "appraisal",
-                "dataanalysis",
                 "audit",
+                "FinancialCareers",
+                "FinancialAnalyst",
+                "Accounting",
                 "dataanalyst",
+                "Underwriting",
+                "Compliance",
+                "dataanalysis",
                 "Bookkeeping",
-                "Underwriting"
+                "Analyst",
+                "appraisal"
             ]
         },
         "occupation": "Business and Financial Operations",
@@ -1009,31 +1009,31 @@
         },
         "subreddit": [
             "FinancialCareers",
-            "managementconsulting",
-            "Compliance",
-            "Training",
             "logistics",
-            "appraisal",
-            "management",
-            "dataanalysis",
-            "marketing",
-            "EventPlanners",
-            "businessanalysis",
-            "farming",
-            "compliance",
+            "managementconsulting",
             "Marketresearch",
-            "Underwriting",
-            "FinancialAnalyst",
-            "Accounting",
-            "ClaimsAdjuster",
-            "adjusters",
-            "procurement",
-            "MarektingResearch",
+            "Training",
+            "farming",
+            "appraisal",
             "Analyst",
             "dataanalyst",
-            "audit",
+            "Accounting",
+            "EventPlanners",
             "Bookkeeping",
-            "humanresources"
+            "dataanalysis",
+            "adjusters",
+            "marketing",
+            "management",
+            "compliance",
+            "humanresources",
+            "Underwriting",
+            "businessanalysis",
+            "audit",
+            "ClaimsAdjuster",
+            "FinancialAnalyst",
+            "procurement",
+            "Compliance",
+            "MarektingResearch"
         ]
     },
     "15": {
@@ -1138,15 +1138,15 @@
                 }
             },
             "subreddit": [
-                "programming",
-                "coding",
-                "InformationTechnology",
                 "SoftwareEngineering",
-                "softwaredevelopment",
                 "software",
+                "coding",
+                "programming",
+                "Database",
+                "softwaredevelopment",
                 "DatabaseAdministrators",
-                "Information_Security",
-                "Database"
+                "InformationTechnology",
+                "Information_Security"
             ]
         },
         "2000": {
@@ -1218,11 +1218,11 @@
                 }
             },
             "subreddit": [
-                "statistics",
+                "OperationsResearch",
                 "mathematics",
                 "math",
-                "actuary",
-                "OperationsResearch"
+                "statistics",
+                "actuary"
             ]
         },
         "occupation": "Computer and Mathematical",
@@ -1345,20 +1345,20 @@
             }
         },
         "subreddit": [
-            "statistics",
-            "programming",
-            "mathematics",
-            "Database",
-            "coding",
-            "InformationTechnology",
             "SoftwareEngineering",
-            "math",
             "softwaredevelopment",
             "software",
-            "DatabaseAdministrators",
-            "Information_Security",
+            "OperationsResearch",
+            "mathematics",
+            "statistics",
+            "math",
+            "programming",
+            "coding",
+            "Database",
             "actuary",
-            "OperationsResearch"
+            "DatabaseAdministrators",
+            "InformationTechnology",
+            "Information_Security"
         ]
     },
     "17": {
@@ -1427,10 +1427,10 @@
                 }
             },
             "subreddit": [
+                "Architects",
                 "LandscapeArchitecture",
-                "architects",
-                "architecture",
-                "cartography"
+                "cartography",
+                "architecture"
             ]
         },
         "2000": {
@@ -1554,22 +1554,22 @@
                 }
             },
             "subreddit": [
-                "civilengineering",
-                "MarineEngineering",
-                "petroleumengineers",
                 "NuclearEngineering",
                 "BiomedicalEngineers",
-                "AerospaceEngineering",
-                "MechanicalEngineering",
-                "industrialengineering",
-                "Geoengineering",
-                "mining",
-                "SafetyProfessionals",
+                "MarineEngineering",
                 "AskEngineers",
+                "Geoengineering",
+                "ComputerHardware",
+                "civilengineering",
                 "ElectricalEngineering",
+                "industrialengineering",
                 "EnvironmentalEngineer",
+                "SafetyProfessionals",
+                "MechanicalEngineering",
+                "mining",
+                "AerospaceEngineering",
                 "ChemicalEngineering",
-                "ComputerHardware"
+                "petroleumengineers"
             ]
         },
         "3000": {
@@ -1669,18 +1669,18 @@
                 }
             },
             "subreddit": [
-                "civilengineering",
+                "Architects",
                 "Surveying",
-                "architects",
-                "AerospaceEngineering",
+                "cad",
+                "AskEngineers",
+                "civilengineering",
+                "ElectricalEngineering",
+                "industrialengineering",
+                "EnvironmentalEngineer",
                 "MechanicalEngineering",
                 "engineering",
-                "industrialengineering",
                 "architecture",
-                "ElectricalEngineering",
-                "EnvironmentalEngineer",
-                "AskEngineers",
-                "cad"
+                "AerospaceEngineering"
             ]
         },
         "occupation": "Architecture and Engineering",
@@ -1868,28 +1868,28 @@
         },
         "subreddit": [
             "LandscapeArchitecture",
-            "engineering",
-            "industrialengineering",
-            "SafetyProfessionals",
-            "EnvironmentalEngineer",
             "AskEngineers",
-            "ComputerHardware",
-            "petroleumengineers",
-            "architects",
-            "BiomedicalEngineers",
-            "MechanicalEngineering",
-            "ElectricalEngineering",
             "civilengineering",
-            "NuclearEngineering",
+            "SafetyProfessionals",
+            "MechanicalEngineering",
+            "mining",
             "AerospaceEngineering",
+            "MarineEngineering",
+            "ChemicalEngineering",
+            "NuclearEngineering",
+            "Surveying",
+            "cad",
             "Geoengineering",
             "cartography",
-            "mining",
-            "ChemicalEngineering",
-            "cad",
-            "MarineEngineering",
-            "Surveying",
-            "architecture"
+            "architecture",
+            "petroleumengineers",
+            "ComputerHardware",
+            "ElectricalEngineering",
+            "industrialengineering",
+            "Architects",
+            "BiomedicalEngineers",
+            "EnvironmentalEngineer",
+            "engineering"
         ]
     },
     "19": {
@@ -1990,18 +1990,18 @@
                 }
             },
             "subreddit": [
-                "foodscience",
-                "Biochemistry",
-                "veterinaryprofession",
-                "plantScience",
-                "biology",
-                "animalscience",
-                "conservation",
-                "medicalschool",
-                "microbiology",
                 "medicine",
+                "microbiology",
+                "plantScience",
+                "foodscience",
+                "conservation",
+                "veterinaryprofession",
+                "biology",
                 "epidemiology",
-                "zoology"
+                "zoology",
+                "medicalschool",
+                "Biochemistry",
+                "animalscience"
             ]
         },
         "2000": {
@@ -2089,16 +2089,16 @@
                 }
             },
             "subreddit": [
-                "PhysicsStudents",
-                "Physics",
-                "Astronomy",
-                "chemistry",
                 "geoscience",
-                "Hydrology",
-                "astrophysics",
-                "scientificresearch",
+                "environmental_science",
                 "MaterialsScience",
-                "environmental_science"
+                "Physics",
+                "Hydrology",
+                "Astronomy",
+                "scientificresearch",
+                "chemistry",
+                "PhysicsStudents",
+                "astrophysics"
             ]
         },
         "3000": {
@@ -2198,21 +2198,21 @@
                 }
             },
             "subreddit": [
-                "psychologist",
-                "AskHistorians",
-                "psychology",
-                "PoliticalScience",
-                "Archeology",
-                "Historians",
-                "Economics",
-                "IOPsychology",
-                "geography",
-                "psychologists",
                 "sociology",
+                "Archeology",
+                "socialscience",
                 "Anthropology",
-                "research",
+                "IOPsychology",
+                "psychologist",
+                "psychologists",
+                "AskHistorians",
                 "urbanplanning",
-                "socialscience"
+                "geography",
+                "psychology",
+                "research",
+                "Economics",
+                "PoliticalScience",
+                "Historians"
             ]
         },
         "4000": {
@@ -2304,13 +2304,13 @@
                 }
             },
             "subreddit": [
-                "foodscience",
-                "forensics",
                 "GradSchool",
-                "forestry",
-                "Petroleum",
+                "forensics",
+                "foodscience",
                 "Teachers",
-                "nuclear"
+                "nuclear",
+                "forestry",
+                "Petroleum"
             ]
         },
         "occupation": "Life, Physical, and Social Science",
@@ -2533,49 +2533,49 @@
             }
         },
         "subreddit": [
-            "psychologist",
-            "PoliticalScience",
-            "plantScience",
-            "Physics",
-            "forensics",
-            "forestry",
-            "animalscience",
-            "conservation",
-            "environmental_science",
-            "PhysicsStudents",
-            "Biochemistry",
-            "Economics",
-            "Astronomy",
-            "geoscience",
-            "Hydrology",
-            "astrophysics",
-            "MaterialsScience",
-            "medicalschool",
-            "sociology",
-            "Anthropology",
             "medicine",
-            "research",
-            "Archeology",
-            "veterinaryprofession",
-            "IOPsychology",
-            "GradSchool",
-            "scientificresearch",
-            "psychologists",
-            "Teachers",
+            "forensics",
             "nuclear",
-            "epidemiology",
             "zoology",
-            "AskHistorians",
-            "psychology",
-            "foodscience",
-            "Historians",
-            "urbanplanning",
-            "chemistry",
-            "biology",
-            "Petroleum",
+            "geoscience",
+            "sociology",
             "microbiology",
+            "IOPsychology",
+            "plantScience",
+            "psychologist",
+            "Teachers",
+            "conservation",
+            "urbanplanning",
+            "Astronomy",
+            "biology",
+            "psychology",
+            "epidemiology",
+            "scientificresearch",
+            "socialscience",
+            "environmental_science",
+            "Archeology",
+            "GradSchool",
+            "Anthropology",
+            "Hydrology",
             "geography",
-            "socialscience"
+            "research",
+            "forestry",
+            "PhysicsStudents",
+            "Petroleum",
+            "astrophysics",
+            "PoliticalScience",
+            "Biochemistry",
+            "Historians",
+            "animalscience",
+            "MaterialsScience",
+            "foodscience",
+            "psychologists",
+            "Physics",
+            "AskHistorians",
+            "veterinaryprofession",
+            "chemistry",
+            "Economics",
+            "medicalschool"
         ]
     },
     "21": {
@@ -2676,9 +2676,9 @@
                 }
             },
             "subreddit": [
-                "socialwork",
                 "rehabtherapy",
                 "Corrections",
+                "socialwork",
                 "therapists"
             ]
         },
@@ -2846,11 +2846,11 @@
             }
         },
         "subreddit": [
-            "socialwork",
-            "rehabtherapy",
             "Corrections",
-            "pastors",
-            "therapists"
+            "rehabtherapy",
+            "socialwork",
+            "therapists",
+            "pastors"
         ]
     },
     "23": {
@@ -2923,9 +2923,9 @@
                 }
             },
             "subreddit": [
+                "law",
                 "attorneys",
-                "LawSchool",
-                "law"
+                "LawSchool"
             ]
         },
         "2000": {
@@ -3074,9 +3074,9 @@
         },
         "subreddit": [
             "attorneys",
-            "courtreporting",
             "paralegal",
             "law",
+            "courtreporting",
             "LawSchool"
         ]
     },
@@ -3274,31 +3274,31 @@
                 }
             },
             "subreddit": [
-                "Sociology_Academic",
-                "PoliticalScience",
-                "ScienceTeachers",
-                "business",
-                "socialwork",
-                "englishteachers",
-                "Philosophy",
-                "LawSchool",
-                "environmental_science",
                 "AskEngineers",
-                "Economics",
-                "law",
-                "Anthropology",
-                "cscareerquestions",
-                "GradSchool",
+                "historyteachers",
+                "ScienceTeachers",
                 "Archaeology",
-                "Professors",
-                "Teachers",
-                "psychology",
-                "education",
-                "chemistry",
-                "mathteachers",
-                "architecture",
+                "business",
                 "librarians",
-                "historyteachers"
+                "Teachers",
+                "Sociology_Academic",
+                "socialwork",
+                "psychology",
+                "architecture",
+                "philosophy",
+                "LawSchool",
+                "education",
+                "cscareerquestions",
+                "environmental_science",
+                "GradSchool",
+                "Anthropology",
+                "Professors",
+                "law",
+                "PoliticalScience",
+                "mathteachers",
+                "englishteachers",
+                "chemistry",
+                "Economics"
             ]
         },
         "2000": {
@@ -3398,11 +3398,11 @@
                 }
             },
             "subreddit": [
-                "highschoolteachers",
                 "specialed",
-                "MiddleSchoolTeacher",
+                "Teachers",
                 "specialeducation",
-                "Teachers"
+                "MiddleSchoolTeacher",
+                "highschoolteachers"
             ]
         },
         "3000": {
@@ -3539,9 +3539,9 @@
                 }
             },
             "subreddit": [
-                "Archivists",
                 "librarians",
-                "museum"
+                "museum",
+                "Archivists"
             ]
         },
         "9000": {
@@ -3901,40 +3901,40 @@
             }
         },
         "subreddit": [
-            "Sociology_Academic",
-            "PoliticalScience",
-            "ScienceTeachers",
-            "instructionaldesign",
-            "business",
-            "socialwork",
-            "englishteachers",
-            "Philosophy",
-            "LawSchool",
-            "environmental_science",
+            "historyteachers",
             "AskEngineers",
-            "highschoolteachers",
-            "Economics",
-            "law",
-            "specialed",
+            "instructionaldesign",
             "specialeducation",
-            "Anthropology",
-            "museum",
-            "ReadingTeacher",
-            "cscareerquestions",
-            "GradSchool",
+            "ScienceTeachers",
             "Archaeology",
-            "audiovisual",
-            "Professors",
+            "librarians",
+            "business",
             "Teachers",
+            "Sociology_Academic",
+            "ReadingTeacher",
+            "socialwork",
+            "audiovisual",
             "psychology",
+            "highschoolteachers",
+            "architecture",
+            "philosophy",
+            "LawSchool",
             "education",
-            "chemistry",
+            "cscareerquestions",
+            "environmental_science",
+            "museum",
+            "specialed",
+            "GradSchool",
+            "Anthropology",
+            "Professors",
+            "law",
+            "PoliticalScience",
             "mathteachers",
+            "englishteachers",
             "MiddleSchoolTeacher",
             "Archivists",
-            "architecture",
-            "librarians",
-            "historyteachers"
+            "chemistry",
+            "Economics"
         ]
     },
     "27": {
@@ -4031,14 +4031,14 @@
                 }
             },
             "subreddit": [
-                "graphic_design",
+                "IndustrialDesign",
+                "InteriorDesign",
+                "GraphicDesigning",
+                "animationcareer",
                 "fashiondesigner",
                 "Artistsforhire",
-                "GraphicDesigning",
-                "InteriorDesign",
-                "animationcareer",
                 "florists",
-                "IndustrialDesign",
+                "graphic_design",
                 "Artists",
                 "ArtistLounge"
             ]
@@ -4128,13 +4128,13 @@
                 }
             },
             "subreddit": [
-                "musicindustry",
+                "dancers",
+                "composer",
                 "musicproduction",
                 "musicians",
-                "composer",
                 "directors",
                 "Actors",
-                "dancers"
+                "musicindustry"
             ]
         },
         "3000": {
@@ -4222,16 +4222,16 @@
                 }
             },
             "subreddit": [
-                "Journalism",
-                "technicalwriting",
-                "writers",
                 "authors",
                 "PublicRelations",
-                "editors",
-                "Writer",
                 "translator",
+                "editors",
                 "Broadcasting",
-                "journalismjobs"
+                "Writer",
+                "journalismjobs",
+                "technicalwriting",
+                "Journalism",
+                "writers"
             ]
         },
         "4000": {
@@ -4312,12 +4312,12 @@
             },
             "subreddit": [
                 "SoundEngineering",
-                "editors",
-                "radio",
-                "PhotographyProTips",
-                "broadcastengineering",
                 "AskEngineers",
-                "production"
+                "editors",
+                "production",
+                "PhotographyProTips",
+                "radio",
+                "broadcastengineering"
             ]
         },
         "occupation": "Arts, Design, Entertainment, Sports, and Media",
@@ -4512,39 +4512,39 @@
             }
         },
         "subreddit": [
-            "PublicRelations",
-            "Writer",
-            "InteriorDesign",
-            "GraphicDesigning",
-            "translator",
-            "writers",
-            "directors",
-            "AskEngineers",
-            "ArtistLounge",
-            "technicalwriting",
-            "SoundEngineering",
-            "musicproduction",
-            "fashiondesigner",
-            "PhotographyProTips",
-            "graphic_design",
-            "journalismjobs",
-            "production",
-            "musicindustry",
             "authors",
-            "Artistsforhire",
+            "SoundEngineering",
+            "InteriorDesign",
             "editors",
+            "Broadcasting",
+            "composer",
+            "AskEngineers",
+            "fashiondesigner",
+            "journalismjobs",
+            "musicians",
+            "florists",
+            "PhotographyProTips",
             "radio",
             "IndustrialDesign",
-            "Artists",
-            "Journalism",
+            "dancers",
+            "musicproduction",
             "broadcastengineering",
-            "composer",
+            "musicindustry",
+            "writers",
+            "PublicRelations",
             "animationcareer",
-            "Broadcasting",
-            "musicians",
+            "Writer",
+            "technicalwriting",
+            "Artistsforhire",
+            "directors",
+            "Artists",
+            "production",
             "Actors",
-            "florists",
-            "dancers"
+            "ArtistLounge",
+            "translator",
+            "GraphicDesigning",
+            "graphic_design",
+            "Journalism"
         ]
     },
     "29": {
@@ -4725,43 +4725,43 @@
                 }
             },
             "subreddit": [
-                "recreationaltherapy",
                 "surgery",
-                "OccupationalTherapy",
-                "RadiationTherapy",
-                "pharmacology",
-                "anesthesiology",
-                "orthodontics",
-                "FamilyMedicine",
-                "NursingStudents",
-                "physicianassistant",
-                "Midwives",
-                "Midwifery",
-                "exercisescience",
-                "InternalMedicine",
-                "optometry",
-                "audiology",
-                "pediatrics",
                 "Dentistry",
-                "ObstetricsGynecology",
-                "nursepractitioner",
-                "veterinaryprofession",
-                "physicaltherapy",
-                "Veterinary",
-                "nursing",
-                "doctors",
-                "Psychiatry",
-                "RegisteredNurses",
-                "PharmacySchool",
-                "respiratorytherapy",
-                "Nurse",
-                "PharmacyTechnician",
-                "Podiatry",
-                "pharmacy",
+                "SpeechTherapyTech",
                 "Chiropractic",
+                "Midwifery",
+                "FamilyMedicine",
+                "recreationaltherapy",
+                "PharmacyTechnician",
+                "doctors",
+                "Veterinary",
+                "PharmacySchool",
+                "physicaltherapy",
+                "Nurse",
+                "pharmacology",
+                "RadiationTherapy",
+                "RegisteredNurses",
+                "pharmacy",
+                "pediatrics",
                 "veterinaryschool",
+                "OccupationalTherapy",
+                "nursepractitioner",
+                "Psychiatry",
+                "nursing",
                 "OralSurgery",
-                "SpeechTherapyTech"
+                "physicianassistant",
+                "NursingStudents",
+                "anesthesiology",
+                "respiratorytherapy",
+                "InternalMedicine",
+                "ObstetricsGynecology",
+                "optometry",
+                "Midwives",
+                "orthodontics",
+                "Podiatry",
+                "audiology",
+                "veterinaryprofession",
+                "exercisescience"
             ]
         },
         "2000": {
@@ -4901,28 +4901,28 @@
                 }
             },
             "subreddit": [
-                "dietetics",
-                "NuclearMedicine",
                 "surgery",
-                "EMTstories",
-                "pharmacology",
-                "NursingStudents",
-                "MedicalTechnology",
-                "emtb",
                 "Dentistry",
-                "HearingAids",
-                "Radiology",
-                "nursing",
-                "Sonographers",
-                "Psychiatry",
-                "RegisteredNurses",
-                "PharmacySchool",
-                "RadiologyforDocs",
-                "respiratorytherapy",
+                "dietetics",
+                "EMTstories",
                 "PharmacyTechnician",
-                "pharmacy",
+                "RadiologyForDocs",
+                "PharmacySchool",
+                "HearingAids",
+                "pharmacology",
+                "RegisteredNurses",
                 "Cardiology",
-                "optician"
+                "pharmacy",
+                "Psychiatry",
+                "optician",
+                "nursing",
+                "NursingStudents",
+                "respiratorytherapy",
+                "NuclearMedicine",
+                "emtb",
+                "Sonographers",
+                "Radiology",
+                "MedicalTechnology"
             ]
         },
         "9000": {
@@ -4995,10 +4995,10 @@
             },
             "subreddit": [
                 "GeneticCounseling",
-                "personaltraining",
-                "healthcareadmin",
                 "healthcare",
-                "SafetyProfessionals"
+                "personaltraining",
+                "SafetyProfessionals",
+                "healthcareadmin"
             ]
         },
         "occupation": "Healthcare Practitioners and Technical",
@@ -5285,59 +5285,59 @@
             }
         },
         "subreddit": [
-            "recreationaltherapy",
-            "dietetics",
-            "NuclearMedicine",
+            "SpeechTherapyTech",
             "surgery",
-            "healthcareadmin",
-            "OccupationalTherapy",
-            "EMTstories",
-            "RadiationTherapy",
-            "FamilyMedicine",
-            "pharmacology",
-            "NursingStudents",
-            "Midwives",
-            "anesthesiology",
-            "physicianassistant",
-            "SafetyProfessionals",
-            "Midwifery",
-            "orthodontics",
-            "MedicalTechnology",
-            "exercisescience",
-            "emtb",
-            "GeneticCounseling",
-            "personaltraining",
-            "InternalMedicine",
-            "optometry",
-            "audiology",
-            "pediatrics",
+            "dietetics",
             "Dentistry",
-            "ObstetricsGynecology",
-            "nursepractitioner",
-            "HearingAids",
-            "veterinaryprofession",
-            "healthcare",
-            "nursing",
-            "physicaltherapy",
-            "Veterinary",
-            "Radiology",
-            "doctors",
-            "Sonographers",
-            "Psychiatry",
-            "RegisteredNurses",
-            "PharmacySchool",
-            "respiratorytherapy",
-            "RadiologyforDocs",
-            "Nurse",
-            "PharmacyTechnician",
-            "Podiatry",
-            "pharmacy",
-            "optician",
-            "Cardiology",
+            "Midwifery",
             "Chiropractic",
+            "FamilyMedicine",
+            "EMTstories",
+            "recreationaltherapy",
+            "SafetyProfessionals",
+            "PharmacyTechnician",
+            "RadiologyForDocs",
+            "doctors",
+            "Veterinary",
+            "PharmacySchool",
+            "MedicalTechnology",
+            "GeneticCounseling",
+            "HearingAids",
+            "physicaltherapy",
+            "personaltraining",
+            "Nurse",
+            "healthcareadmin",
+            "pharmacology",
+            "RadiationTherapy",
+            "RegisteredNurses",
+            "Cardiology",
+            "pharmacy",
+            "pediatrics",
             "veterinaryschool",
+            "OccupationalTherapy",
+            "nursepractitioner",
+            "Psychiatry",
+            "optician",
+            "nursing",
             "OralSurgery",
-            "SpeechTherapyTech"
+            "physicianassistant",
+            "NursingStudents",
+            "anesthesiology",
+            "NuclearMedicine",
+            "respiratorytherapy",
+            "emtb",
+            "InternalMedicine",
+            "ObstetricsGynecology",
+            "Midwives",
+            "audiology",
+            "optometry",
+            "Podiatry",
+            "orthodontics",
+            "healthcare",
+            "veterinaryprofession",
+            "Sonographers",
+            "exercisescience",
+            "Radiology"
         ]
     },
     "31": {
@@ -5406,9 +5406,9 @@
                 }
             },
             "subreddit": [
+                "Psychiatry",
                 "nursing",
                 "NursingStudents",
-                "Psychiatry",
                 "RegisteredNurses"
             ]
         },
@@ -5566,22 +5566,22 @@
                 }
             },
             "subreddit": [
-                "PharmacySchool",
-                "veterinaryprofession",
-                "Veterinary",
-                "Transcription",
-                "healthcare",
-                "healthcareadmin",
-                "MassageTherapists",
-                "PharmacyTechnician",
                 "pharmacy",
-                "veterinaryschool",
-                "pharmacology",
-                "phlebotomy",
-                "physicianassistant",
+                "PharmacySchool",
                 "Dentistry",
+                "PharmacyTechnician",
+                "veterinaryschool",
+                "phlebotomy",
+                "phlebotomists",
+                "healthcare",
+                "veterinaryprofession",
+                "Transcription",
+                "MassageTherapists",
                 "MedicalDevices",
-                "phlebotomists"
+                "healthcareadmin",
+                "physicianassistant",
+                "pharmacology",
+                "Veterinary"
             ]
         },
         "occupation": "Healthcare Support",
@@ -5700,28 +5700,28 @@
             }
         },
         "subreddit": [
-            "healthcareadmin",
-            "OccupationalTherapy",
-            "pharmacology",
-            "NursingStudents",
-            "physicianassistant",
-            "phlebotomists",
-            "Transcription",
-            "MassageTherapists",
             "Dentistry",
-            "veterinaryprofession",
-            "healthcare",
-            "physicaltherapy",
-            "nursing",
-            "Veterinary",
             "phlebotomy",
-            "Psychiatry",
-            "MedicalDevices",
-            "RegisteredNurses",
-            "PharmacySchool",
+            "Transcription",
             "PharmacyTechnician",
+            "Veterinary",
+            "PharmacySchool",
+            "physicaltherapy",
+            "healthcareadmin",
+            "pharmacology",
+            "RegisteredNurses",
             "pharmacy",
-            "veterinaryschool"
+            "veterinaryschool",
+            "OccupationalTherapy",
+            "Psychiatry",
+            "phlebotomists",
+            "nursing",
+            "MassageTherapists",
+            "physicianassistant",
+            "NursingStudents",
+            "healthcare",
+            "veterinaryprofession",
+            "MedicalDevices"
         ]
     },
     "33": {
@@ -5928,10 +5928,10 @@
                 }
             },
             "subreddit": [
-                "police",
-                "correctional_staff",
+                "Corrections",
                 "parking",
-                "Corrections"
+                "police",
+                "correctional_staff"
             ]
         },
         "9000": {
@@ -6015,9 +6015,9 @@
                 }
             },
             "subreddit": [
+                "tsa",
                 "animalcontrol",
                 "securityguards",
-                "tsa",
                 "PrivateInvestigator",
                 "Lifeguards"
             ]
@@ -6154,16 +6154,16 @@
             }
         },
         "subreddit": [
-            "animalcontrol",
-            "securityguards",
-            "police",
+            "Corrections",
+            "firefighters",
             "tsa",
             "parking",
+            "animalcontrol",
+            "police",
             "correctional_staff",
-            "firefighters",
+            "securityguards",
             "PrivateInvestigator",
-            "Lifeguards",
-            "Corrections"
+            "Lifeguards"
         ]
     },
     "35": {
@@ -6437,8 +6437,8 @@
                 }
             },
             "subreddit": [
-                "dishwashers",
-                "Serverlife"
+                "Serverlife",
+                "dishwashers"
             ]
         },
         "occupation": "Food Preparation and Serving Related",
@@ -6553,10 +6553,10 @@
             }
         },
         "subreddit": [
+            "Chefit",
             "Serverlife",
             "dishwashers",
-            "bartenders",
-            "Chefit"
+            "bartenders"
         ]
     },
     "37": {
@@ -6681,8 +6681,8 @@
                 }
             },
             "subreddit": [
-                "housekeeping",
                 "pestcontrol",
+                "housekeeping",
                 "Pestcontroltech"
             ]
         },
@@ -6831,9 +6831,9 @@
         },
         "subreddit": [
             "pestcontrol",
+            "housekeeping",
             "landscaping",
-            "Pestcontroltech",
-            "housekeeping"
+            "Pestcontroltech"
         ]
     },
     "39": {
@@ -7177,10 +7177,10 @@
             },
             "subreddit": [
                 "makeupartists",
-                "Dermatology",
                 "Barber",
-                "Nailtechs",
-                "hairstylist"
+                "Dermatology",
+                "hairstylist",
+                "Nailtechs"
             ]
         },
         "6000": {
@@ -7298,9 +7298,9 @@
                 }
             },
             "subreddit": [
+                "travelagents",
                 "Tourguide",
-                "TravelAgent",
-                "travelagents"
+                "TravelAgent"
             ]
         },
         "9000": {
@@ -7372,9 +7372,9 @@
                 }
             },
             "subreddit": [
+                "personaltraining",
                 "ChildcareWorkers",
-                "Nanny",
-                "personaltraining"
+                "Nanny"
             ]
         },
         "occupation": "Personal Care and Service",
@@ -7545,20 +7545,20 @@
             }
         },
         "subreddit": [
-            "Dermatology",
-            "makeupartists",
-            "personaltraining",
-            "hairstylist",
             "ChildcareWorkers",
-            "Nanny",
+            "makeupartists",
             "Barber",
-            "FuneralDirector",
-            "TravelAgent",
             "travelagents",
+            "TravelAgent",
+            "Nanny",
             "Dogtraining",
+            "personaltraining",
+            "Dermatology",
             "Tourguide",
-            "Nailtechs",
-            "managers"
+            "FuneralDirector",
+            "hairstylist",
+            "managers",
+            "Nailtechs"
         ]
     },
     "41": {
@@ -7691,8 +7691,8 @@
                 }
             },
             "subreddit": [
-                "retail",
-                "314"
+                "314",
+                "retail"
             ]
         },
         "3000": {
@@ -7764,11 +7764,11 @@
                 }
             },
             "subreddit": [
+                "sales",
                 "FinancialCareers",
                 "InsuranceProfessional",
                 "travelagents",
-                "InsuranceAgent",
-                "sales"
+                "InsuranceAgent"
             ]
         },
         "4000": {
@@ -7908,10 +7908,10 @@
                 }
             },
             "subreddit": [
+                "sales",
                 "RealEstate",
-                "Model",
                 "salesengineers",
-                "sales"
+                "Model"
             ]
         },
         "occupation": "Sales and Related",
@@ -8046,17 +8046,17 @@
             }
         },
         "subreddit": [
-            "FinancialCareers",
-            "InsuranceProfessional",
-            "RealEstate",
-            "retail",
-            "travelagents",
-            "salesengineers",
-            "InsuranceAgent",
-            "314",
             "sales",
+            "FinancialCareers",
+            "retail",
+            "InsuranceProfessional",
+            "travelagents",
+            "RealEstate",
+            "salesengineers",
+            "314",
             "Model",
-            "managers"
+            "managers",
+            "InsuranceAgent"
         ]
     },
     "43": {
@@ -8370,13 +8370,13 @@
                 }
             },
             "subreddit": [
-                "CustomerService",
+                "humanresources",
                 "AdminAssistant",
-                "loanoriginators",
-                "TravelAgent",
-                "travelagents",
                 "librarians",
-                "humanresources"
+                "CustomerService",
+                "travelagents",
+                "TravelAgent",
+                "loanoriginators"
             ]
         },
         "5000": {
@@ -8476,11 +8476,11 @@
                 }
             },
             "subreddit": [
-                "couriersofreddit",
-                "FedEx",
                 "USPS",
-                "FreightBrokers",
+                "FedEx",
                 "UPS",
+                "couriersofreddit",
+                "FreightBrokers",
                 "production"
             ]
         },
@@ -8550,8 +8550,8 @@
             },
             "subreddit": [
                 "legal",
-                "AdminAssistant",
-                "ExecutiveAssistants"
+                "ExecutiveAssistants",
+                "AdminAssistant"
             ]
         },
         "9000": {
@@ -8643,10 +8643,10 @@
                 }
             },
             "subreddit": [
-                "InsuranceProfessional",
                 "Proofreading",
-                "statistics",
                 "Copyediting",
+                "InsuranceProfessional",
+                "statistics",
                 "InsuranceAgent"
             ]
         },
@@ -8906,31 +8906,31 @@
             }
         },
         "subreddit": [
-            "librarians",
-            "Copyediting",
-            "travelagents",
-            "InsuranceAgent",
-            "UPS",
-            "Proofreading",
-            "ExecutiveAssistants",
-            "production",
-            "Payroll",
-            "couriersofreddit",
-            "Accounting",
-            "FedEx",
             "AdminAssistant",
-            "loanoriginators",
-            "procurement",
-            "TravelAgent",
-            "InsuranceProfessional",
-            "statistics",
-            "CustomerService",
             "USPS",
             "legal",
-            "FreightBrokers",
+            "managers",
+            "InsuranceAgent",
+            "ExecutiveAssistants",
+            "Payroll",
+            "Accounting",
+            "InsuranceProfessional",
+            "librarians",
+            "travelagents",
+            "TravelAgent",
+            "loanoriginators",
             "Bookkeeping",
+            "FreightBrokers",
+            "Copyediting",
             "humanresources",
-            "managers"
+            "UPS",
+            "production",
+            "Proofreading",
+            "procurement",
+            "CustomerService",
+            "statistics",
+            "FedEx",
+            "couriersofreddit"
         ]
     },
     "45": {
@@ -9061,11 +9061,11 @@
                 }
             },
             "subreddit": [
-                "Tractor",
-                "farming",
                 "rancher",
                 "DogBreeding",
-                "Ranching"
+                "Ranching",
+                "farming",
+                "Tractor"
             ]
         },
         "3000": {
@@ -9125,8 +9125,8 @@
                 }
             },
             "subreddit": [
-                "commercialfishing",
-                "Hunting"
+                "Hunting",
+                "commercialfishing"
             ]
         },
         "4000": {
@@ -9297,14 +9297,14 @@
             }
         },
         "subreddit": [
-            "commercialfishing",
-            "forestry",
-            "Tractor",
-            "farming",
-            "Hunting",
             "rancher",
+            "Hunting",
+            "commercialfishing",
             "DogBreeding",
-            "Ranching"
+            "Ranching",
+            "farming",
+            "Tractor",
+            "forestry"
         ]
     },
     "47": {
@@ -9533,26 +9533,26 @@
                 }
             },
             "subreddit": [
-                "Construction",
-                "sheetmetal",
-                "plumbers",
-                "carpenters",
                 "paint",
                 "stonemasonry",
-                "Plastering",
-                "solarenergy",
-                "masonry",
-                "Plumbing",
-                "Ironworker",
-                "steel",
-                "solar",
-                "electricians",
-                "Tile",
-                "Roofing",
-                "Insulation",
-                "carpet",
                 "Flooring",
-                "drywall"
+                "plumbers",
+                "solarenergy",
+                "steel",
+                "Construction",
+                "Plastering",
+                "masonry",
+                "sheetmetal",
+                "electricians",
+                "Ironworker",
+                "Roofing",
+                "drywall",
+                "Insulation",
+                "carpenters",
+                "solar",
+                "carpet",
+                "Tile",
+                "Plumbing"
             ]
         },
         "3000": {
@@ -9628,13 +9628,13 @@
                 }
             },
             "subreddit": [
-                "Plumbing",
-                "stonemasonry",
-                "electrical",
-                "carpenters",
-                "electricians",
                 "Roofing",
-                "masonry"
+                "masonry",
+                "stonemasonry",
+                "electricians",
+                "Plumbing",
+                "carpenters",
+                "electrical"
             ]
         },
         "4000": {
@@ -9722,14 +9722,14 @@
                 }
             },
             "subreddit": [
-                "hazmat",
                 "Elevators",
-                "trains",
                 "elevator",
-                "Construction",
-                "FenceBuilding",
+                "hazmat",
+                "trains",
+                "SepticTankCleaning",
                 "BuildingCodes",
-                "SepticTankCleaning"
+                "FenceBuilding",
+                "Construction"
             ]
         },
         "5000": {
@@ -9825,8 +9825,8 @@
                 }
             },
             "subreddit": [
-                "rotaryengine",
-                "mining"
+                "mining",
+                "rotaryengine"
             ]
         },
         "occupation": "Construction and Extraction",
@@ -10105,37 +10105,37 @@
             }
         },
         "subreddit": [
-            "electrical",
-            "Construction",
-            "FenceBuilding",
-            "sheetmetal",
-            "carpenters",
-            "plumbers",
-            "rotaryengine",
             "paint",
             "stonemasonry",
-            "Plastering",
-            "elevator",
-            "solarenergy",
-            "SepticTankCleaning",
-            "masonry",
-            "Plumbing",
-            "Elevators",
-            "Ironworker",
-            "steel",
-            "solar",
-            "BuildingCodes",
-            "mining",
-            "electricians",
-            "Tile",
-            "Roofing",
-            "Insulation",
-            "carpet",
-            "hazmat",
-            "ConstructionManagers",
             "Flooring",
             "trains",
-            "drywall"
+            "plumbers",
+            "BuildingCodes",
+            "solarenergy",
+            "electrical",
+            "FenceBuilding",
+            "mining",
+            "steel",
+            "Construction",
+            "Elevators",
+            "sheetmetal",
+            "masonry",
+            "Plastering",
+            "electricians",
+            "Ironworker",
+            "Roofing",
+            "elevator",
+            "drywall",
+            "Insulation",
+            "hazmat",
+            "rotaryengine",
+            "SepticTankCleaning",
+            "carpenters",
+            "solar",
+            "carpet",
+            "Tile",
+            "ConstructionManagers",
+            "Plumbing"
         ]
     },
     "49": {
@@ -10286,13 +10286,13 @@
                 }
             },
             "subreddit": [
-                "telecom",
-                "repair",
-                "electrical",
-                "radio",
+                "avionics",
                 "Telecommunication",
+                "repair",
                 "electricians",
-                "avionics"
+                "electrical",
+                "telecom",
+                "radio"
             ]
         },
         "3000": {
@@ -10400,17 +10400,17 @@
                 }
             },
             "subreddit": [
-                "mechanic",
-                "tires",
-                "mechanics",
                 "AutoBodyRepair",
-                "BikeRepair",
-                "trains",
                 "MotorcycleMechanics",
                 "AutoMechanics",
-                "bikewrench",
-                "heavyequipment",
                 "AircraftMechanics",
+                "heavyequipment",
+                "mechanics",
+                "bikewrench",
+                "mechanic",
+                "trains",
+                "tires",
+                "BikeRepair",
                 "boatrepair",
                 "Autobody"
             ]
@@ -10564,27 +10564,27 @@
                 }
             },
             "subreddit": [
+                "Truckers",
+                "Industrial",
+                "watchrepair",
+                "PowerLineman",
+                "ApplianceTechTalk",
+                "Tailors",
+                "repair",
+                "windturbine",
+                "Rigging",
+                "Instruments",
+                "Locksmith",
+                "MaintenanceWorkers",
                 "maintenance",
                 "hvacengineers",
-                "ApplianceTechTalk",
-                "PowerLineman",
-                "repair",
-                "MaintenanceWorkers",
-                "Tailors",
-                "HVAC",
+                "Telecommunication",
                 "vending",
+                "vendingmachines",
+                "millwrights",
                 "appliancerepair",
                 "telecom",
-                "watchrepair",
-                "Telecommunication",
-                "windturbine",
-                "millwrights",
-                "vendingmachines",
-                "Rigging",
-                "Locksmith",
-                "Instruments",
-                "Industrial",
-                "Truckers"
+                "HVAC"
             ]
         },
         "occupation": "Installation, Maintenance, and Repair",
@@ -10839,44 +10839,44 @@
             }
         },
         "subreddit": [
-            "maintenance",
-            "hvacengineers",
-            "ApplianceTechTalk",
-            "PowerLineman",
-            "repair",
-            "electrical",
-            "MaintenanceWorkers",
-            "Truckers",
-            "Tailors",
-            "HVAC",
-            "AircraftMechanics",
-            "heavyequipment",
-            "vending",
-            "mechanics",
-            "AutoBodyRepair",
-            "appliancerepair",
-            "BikeRepair",
-            "telecom",
-            "watchrepair",
-            "Telecommunication",
-            "AutoMechanics",
-            "boatrepair",
-            "Autobody",
-            "windturbine",
-            "radio",
             "MotorcycleMechanics",
+            "Truckers",
+            "watchrepair",
+            "Industrial",
             "bikewrench",
-            "electricians",
-            "millwrights",
-            "vendingmachines",
-            "Rigging",
-            "avionics",
             "tires",
             "trains",
-            "Locksmith",
-            "mechanic",
+            "electrical",
+            "PowerLineman",
+            "radio",
+            "ApplianceTechTalk",
+            "Tailors",
+            "repair",
+            "heavyequipment",
+            "electricians",
+            "windturbine",
+            "Rigging",
             "Instruments",
-            "Industrial"
+            "boatrepair",
+            "Locksmith",
+            "MaintenanceWorkers",
+            "maintenance",
+            "hvacengineers",
+            "Telecommunication",
+            "mechanic",
+            "vending",
+            "BikeRepair",
+            "Autobody",
+            "AutoBodyRepair",
+            "vendingmachines",
+            "avionics",
+            "AircraftMechanics",
+            "AutoMechanics",
+            "mechanics",
+            "millwrights",
+            "appliancerepair",
+            "telecom",
+            "HVAC"
         ]
     },
     "51": {
@@ -11019,10 +11019,10 @@
                 }
             },
             "subreddit": [
-                "fabrication",
+                "AircraftMechanics",
                 "electricians",
-                "electrical",
-                "AircraftMechanics"
+                "fabrication",
+                "electrical"
             ]
         },
         "3000": {
@@ -11254,17 +11254,17 @@
                 }
             },
             "subreddit": [
-                "PreciousMetalRefining",
-                "InjectionMolding",
-                "Forging",
-                "Weldingporn",
-                "Powdercoating",
                 "modelmakers",
                 "Lathe",
+                "Forging",
+                "Machinists",
                 "weldingengineering",
                 "Tools",
+                "InjectionMolding",
+                "PreciousMetalRefining",
+                "Powdercoating",
                 "MetalPolishing",
-                "Machinists"
+                "Weldingporn"
             ]
         },
         "5000": {
@@ -11436,13 +11436,13 @@
                 }
             },
             "subreddit": [
-                "sewing",
-                "Fabrics",
                 "textiles",
-                "shoerepair",
-                "upholstery",
-                "Tailors",
                 "SewingStations",
+                "sewing",
+                "Tailors",
+                "shoerepair",
+                "Fabrics",
+                "upholstery",
                 "Laundromats"
             ]
         },
@@ -11519,12 +11519,12 @@
                 }
             },
             "subreddit": [
-                "furniture_design",
                 "modelmakers",
-                "cabinetry",
                 "furniturerestoration",
-                "Woodworking",
-                "Woodcarving"
+                "Woodcarving",
+                "woodworking",
+                "cabinetry",
+                "furniture_design"
             ]
         },
         "8000": {
@@ -11783,13 +11783,13 @@
                 }
             },
             "subreddit": [
-                "engraving",
-                "jewelrymaking",
-                "Semiconductors",
-                "Ophthalmology",
-                "MetalPolishing",
-                "Dentistry",
                 "paint",
+                "Semiconductors",
+                "Dentistry",
+                "engraving",
+                "MetalPolishing",
+                "jewelrymaking",
+                "Ophthalmology",
                 "production"
             ]
         },
@@ -12253,47 +12253,47 @@
             }
         },
         "subreddit": [
-            "PreciousMetalRefining",
-            "engraving",
-            "Forging",
-            "jewelrymaking",
-            "textiles",
-            "fabrication",
-            "electrical",
-            "Lathe",
-            "Tailors",
-            "weldingengineering",
-            "AircraftMechanics",
-            "Woodcarving",
+            "paint",
+            "SewingStations",
+            "Dentistry",
             "AskEngineers",
             "Machinists",
-            "paint",
-            "InjectionMolding",
-            "shoerepair",
-            "upholstery",
-            "Dentistry",
-            "Printing",
-            "production",
-            "Weldingporn",
-            "furniture_design",
-            "NuclearEngineering",
+            "Powdercoating",
             "cabinetry",
-            "WaterTreatment",
+            "electrical",
+            "oil",
+            "NuclearEngineering",
+            "textiles",
             "furniturerestoration",
-            "Woodworking",
-            "Semiconductors",
+            "WaterTreatment",
+            "sewing",
+            "Tailors",
+            "Tools",
             "electricians",
+            "woodworking",
             "MetalPolishing",
             "Butchery",
-            "SewingStations",
+            "Semiconductors",
+            "Woodcarving",
+            "weldingengineering",
+            "upholstery",
             "Laundromats",
-            "Fabrics",
-            "sewing",
-            "Powdercoating",
-            "modelmakers",
-            "oil",
             "Ophthalmology",
-            "Tools"
+            "Printing",
+            "Fabrics",
+            "modelmakers",
+            "furniture_design",
+            "production",
+            "Lathe",
+            "Forging",
+            "AircraftMechanics",
+            "shoerepair",
+            "InjectionMolding",
+            "fabrication",
+            "engraving",
+            "PreciousMetalRefining",
+            "jewelrymaking",
+            "Weldingporn"
         ]
     },
     "53": {
@@ -12430,8 +12430,8 @@
                 }
             },
             "subreddit": [
-                "airtrafficcontrol",
                 "pilots",
+                "airtrafficcontrol",
                 "flightattendants"
             ]
         },
@@ -12513,12 +12513,12 @@
             },
             "subreddit": [
                 "emtb",
-                "taxi",
-                "EMTstories",
-                "deliverydrivers",
+                "Truckers",
                 "BusDrivers",
+                "deliverydrivers",
+                "EMTstories",
                 "uberdrivers",
-                "Truckers"
+                "taxi"
             ]
         },
         "4000": {
@@ -12594,9 +12594,9 @@
                 }
             },
             "subreddit": [
-                "Subways",
+                "trains",
                 "railroading",
-                "trains"
+                "Subways"
             ]
         },
         "5000": {
@@ -12860,8 +12860,8 @@
                 }
             },
             "subreddit": [
-                "mining",
                 "cranes",
+                "mining",
                 "tractors"
             ]
         },
@@ -13105,25 +13105,25 @@
             }
         },
         "subreddit": [
+            "Truckers",
+            "cranes",
+            "BusDrivers",
             "parking",
             "EMTstories",
-            "Truckers",
+            "trains",
             "boating",
-            "AircraftMechanics",
-            "uberdrivers",
-            "emtb",
-            "taxi",
+            "mining",
+            "Subways",
+            "airtrafficcontrol",
             "tractors",
             "pilots",
-            "cranes",
-            "flightattendants",
-            "railroading",
-            "mining",
-            "BusDrivers",
-            "trains",
-            "airtrafficcontrol",
+            "uberdrivers",
+            "taxi",
+            "emtb",
+            "AircraftMechanics",
             "deliverydrivers",
-            "Subways"
+            "flightattendants",
+            "railroading"
         ]
     }
 }
